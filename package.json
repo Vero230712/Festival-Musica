@@ -1,0 +1,22 @@
+{
+    "name": "festivalmusica_inicio",
+    "version": "1.0.0",
+    "description": "Proyecto con Gulp Sass y HTML",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vero230712/Festival-Musica.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Vero230712/Festival-Musica/issues"
+    },
+    "homepage": "https://github.com/Vero230712/Festival-Musica#readme",
+    "devDependencies": {
+        "sass": "^1.43.5"
+    }
+}
