@@ -1,3 +1,15 @@
 npm init
 npm install sass --save-dev
-npm install-recupera todas las dependencias necesarias
+npm install-recupera todas las dependencias necesarias si es que algunas fueron eliminados
+nmp run sass--- con "watch" en el package.json permitirá guardar los cambios constantemente, con ctrl+c lo detienes y si se desea que vuelva a guardar los cambios automáticanmente volver a ejecutar el "nmp run sass"
+
+powershell admin
+npm i -g gulp(version global), gulp -v para saber si ya está instalado
+
+
+studio code
+npm i --save-dev gulp(version local)
+
+error powershell probar ejecutar en visual studio Set-ExecutionPolicy Unrestricted
+Get-ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
